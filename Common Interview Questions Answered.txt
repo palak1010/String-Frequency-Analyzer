@@ -1,13 +1,9 @@
-# Building a Frequency Analyzer in JavaScript: Common Interview Questions Answered
-
-In coding interviews, questions about string manipulation and analysis are quite common. One such category involves analyzing the frequency of characters or words within a string. In this post, we'll walk through the creation of a frequency analyzer in JavaScript to answer a series of typical interview questions.
+Questions about character occurrences in a string can cover a wide range of topics, from basic frequency counts to more complex pattern recognition and transformations. Here are several types of questions that can be derived from character occurrences in a string:
 
 ### Basic Frequency Questions
 
 1. _Frequency Count_:
-
    - How many times does each character appear in the string "example"?
-
 2. _Most Frequent Character_:
 
    - What is the most frequent character in the string "example"?
@@ -21,7 +17,6 @@ In coding interviews, questions about string manipulation and analysis are quite
    - How many unique characters are in the string "example"?
 
 5. _Character with Given Frequency_:
-
    - Which characters appear exactly twice in the string "example"?
 
 ### Specific Character Questions
@@ -35,7 +30,6 @@ In coding interviews, questions about string manipulation and analysis are quite
    - Where is the last occurrence of the character 'e' in the string "example"?
 
 3. _Character Positions_:
-
    - At which positions does the character 'e' appear in the string "example"?
 
 ### Case Sensitivity Questions
@@ -45,7 +39,6 @@ In coding interviews, questions about string manipulation and analysis are quite
    - How many times does each character (case-insensitive) appear in the string "Example"?
 
 2. _Case-Sensitive Frequency Count_:
-
    - How many times does each character (case-sensitive) appear in the string "Example"?
 
 ### Substring and Pattern Questions
@@ -55,7 +48,6 @@ In coding interviews, questions about string manipulation and analysis are quite
    - What is the most frequent substring of length 2 in the string "example"?
 
 2. _Palindrome Substrings_:
-
    - How many palindromic substrings are in the string "example"?
 
 ### Transformation Questions
